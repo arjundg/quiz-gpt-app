@@ -1,0 +1,47 @@
+[
+    {
+        "topic": "History",
+        "subtopics": [
+            "World Wars",
+            "Ancient Civilizations",
+            "American History",
+            "European History"
+        ]
+    },
+    {
+        "topic": "Science",
+        "subtopics": [
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Space Exploration"
+        ]
+    },
+    {
+        "topic": "Literature",
+        "subtopics": [
+            "Classic Novels",
+            "Poetry",
+            "Shakespeare",
+            "Science Fiction"
+        ]
+    },
+    {
+        "topic": "Geography",
+        "subtopics": [
+            "World Continents and Countries",
+            "Oceans and Seas",
+            "Climate and Weather",
+            "Landforms"
+        ]
+    },
+    {
+        "topic": "Pop Culture",
+        "subtopics": [
+            "Movies",
+            "Music",
+            "Television",
+            "Video Games"
+        ]
+    }
+]

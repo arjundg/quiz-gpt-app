@@ -1,0 +1,95 @@
+{
+    "History": {
+      "World Wars": [
+        {
+          "question": "When did World War I start?",
+          "options": [
+            "1912",
+            "1914",
+            "1916",
+            "1918"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Who was the leader of Nazi Germany?",
+          "options": [
+            "Joseph Stalin",
+            "Adolf Hitler",
+            "Winston Churchill",
+            "Franklin D. Roosevelt"
+          ],
+          "answer": 1
+        }
+      ],
+      "Ancient Civilizations": [
+        {
+          "question": "Where was the ancient city of Troy located?",
+          "options": [
+            "Greece",
+            "Italy",
+            "Turkey",
+            "Egypt"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Who was the first emperor of Rome?",
+          "options": [
+            "Julius Caesar",
+            "Augustus",
+            "Nero",
+            "Caligula"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    "Science": {
+      "Biology": [
+        {
+          "question": "What is the powerhouse of the cell?",
+          "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Ribosome",
+            "Golgi apparatus"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "What is the basic unit of life?",
+          "options": [
+            "Cell",
+            "Tissue",
+            "Organ",
+            "Organ system"
+          ],
+          "answer": 0
+        }
+      ],
+      "Physics": [
+        {
+          "question": "What is the speed of light?",
+          "options": [
+            "299,792 km/s",
+            "150,000 km/s",
+            "250,000 km/s",
+            "100,000 km/s"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Who formulated the theory of relativity?",
+          "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Nikola Tesla"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  }
+  
